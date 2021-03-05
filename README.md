@@ -1,2 +1,2 @@
-# Computational-Statistics
+# Computational Statistics IIT Kharagpur
 Course programming assignment
